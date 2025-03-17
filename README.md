@@ -1,6 +1,6 @@
 ![logo](https://github.com/AnuradhaDilshan/AnuradhaDilshan/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Anuradha Dilshan</h1>
-<h3 align="center">Full Stack Developer from Sri Lanka</h3>
+<h3 align="center">Full Stack Developer and Blockchain Enthusiast from Sri Lanka</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuradhadilshan&label=Profile%20views&color=0e75b6&style=flat" alt="anuradhadilshan" /> </p>
@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **Final Year Individual Research Project using Decentralized Technologies**
 
-- 🌱 I’m currently learning **React, Nodejs**
+- 🌱 I’m currently learning **Blockchain Technologies**
 
-- 💬 Ask me about **MERN, Front-End Developments**
+- 💬 Ask me about **React, Nodejs, Express.js, MongoDB**
 
 - 📫 How to reach me **anuradha256kcc@gmail.com**
 
