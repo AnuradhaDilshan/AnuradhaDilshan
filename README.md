@@ -7,9 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/anuradhadilshan" target="blank"><img src="https://img.shields.io/twitter/follow/anuradhadilshan?logo=twitter&style=for-the-badge" alt="anuradhadilshan" /></a> </p>
 
-- 🔭 I’m currently working on **Final Year Individual Research Project using Decentralized Technologies**
-
-- 🌱 I’m currently learning **Blockchain Technologies**
+- 🔭 I’m currently working on **Final Year Individual Research Project**
 
 - 💬 Ask me about **React, Nodejs, Express.js, MongoDB**
 
